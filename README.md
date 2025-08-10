@@ -1,7 +1,7 @@
 #### staging file
 
 ```bash
-git add .
+  git add .
 ```
 
 #### commit file
